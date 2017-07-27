@@ -1,5 +1,8 @@
 #Getting and Cleaning Data Project
 
+#Step 0 
+#download files from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+#Save files to network locations - update for your own 
 
 #Step 1
 #Load text files to data frames
